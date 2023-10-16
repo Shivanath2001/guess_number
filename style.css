@@ -6,7 +6,7 @@ body{
     height: 100vh;
     width: 100%;
     box-sizing: border-box;
-    background-color: #cecccc;
+   background-color: #ece6e6b3;
 }
 .main{
     width: 250px;
@@ -17,6 +17,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    background: linear-gradient(135deg,rgb(237, 203, 246),white);
+    border-radius: 4px;
 
 }
 h2{
